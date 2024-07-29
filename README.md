@@ -1,0 +1,1 @@
+A functional and interactive stopwatch with Start, Pause, Reset, Restart, and Lap functionalities. Built using HTML, CSS, and JavaScript, this project features a responsive design and a clear, user-friendly interface.
